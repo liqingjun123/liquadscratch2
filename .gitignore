@@ -1,0 +1,12 @@
+#package.xml file is recreated on the fly by Copado, no need to track unnecessary changes of this file
+package.xml
+
+force-app/main/default/classes/copado__*
+force-app/main/default/components/copado__*
+force-app/main/default/flows/copado__*
+force-app/main/default/staticresources/copado__*
+force-app/main/default/tabs/copado__*
+force-app/main/default/triggers/copado__*
+force-app/main/default/pages/copado__*
+
+force-app/main/default/permissionsets/copado__*
